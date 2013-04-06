@@ -15,9 +15,12 @@ Installation instructions
 =========================
 
 1. Compile with 
-	g++ -std=c++0x -I . BgpCompare.cpp -lboost_regex -o bgpcompare
+
+    g++ -std=c++0x -I . BgpCompare.cpp -lboost_regex -o bgpcompare
+
 or
-	g++ -std=c++0x -I . BgpCompare.cpp -DUSE_STD_REGEX -o bgpcompare
+
+    g++ -std=c++0x -I . BgpCompare.cpp -DUSE_STD_REGEX -o bgpcompare
 
 if your standard C++ library includes <regex>
 
