@@ -1,4 +1,5 @@
-============================ BgpCompare v1.0 ============================
+BgpCompare v1.0
+===============
 
 Author: Tibor Djurica Potpara <tibor.djurica@ojdip.net>
 
@@ -10,7 +11,8 @@ les for missing routes.
 BgpCompare is a free software published under the terms of GNU Lesser
 General Public Licence version 3. See licence.txt for more info.
 
-======================= Installation instructions =======================
+Installation instructions
+=========================
 
 1. Compile with 
 	g++ -std=c++0x -I . BgpCompare.cpp -lboost_regex -o bgpcompare
