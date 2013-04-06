@@ -8,7 +8,7 @@ in [Address]/[Subnet mask] notation and outputs a binary set operation
 performed on these two files. Use it to compare BGP route tables 
 for missing routes.
 
-BgpCompare is a free software published under the terms of GNU Lesser
+BgpCompare is free software published under the terms of GNU Lesser
 General Public Licence version 3. See LICENCE for more info.
 
 Installation instructions
