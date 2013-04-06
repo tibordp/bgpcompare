@@ -3,10 +3,10 @@ BgpCompare v1.0
 
 Author: Tibor Djurica Potpara <tibor.djurica@ojdip.net>
 
-BgpCompare is an utility that takes two files containing IP(v6) subn-
-ets in [Address]/[Subnet mask] notation and outputs a binary set ope-
-ration performed on these two files. Use it to compare BGP route tab-
-les for missing routes.
+BgpCompare is an utility that takes two files containing IP(v6) subnets
+in [Address]/[Subnet mask] notation and outputs a binary set operation
+performed on these two files. Use it to compare BGP route tables 
+for missing routes.
 
 BgpCompare is a free software published under the terms of GNU Lesser
 General Public Licence version 3. See licence.txt for more info.
