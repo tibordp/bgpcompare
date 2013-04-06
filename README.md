@@ -14,8 +14,8 @@ General Public Licence version 3. See licence.txt for more info.
 Installation instructions
 =========================
 
-1. Compile with 
-
+Compile with 
+   
     g++ -std=c++0x -I . BgpCompare.cpp -lboost_regex -o bgpcompare
 
 or
