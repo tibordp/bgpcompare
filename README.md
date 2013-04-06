@@ -27,4 +27,4 @@ if your standard C++ library includes `<regex>`
 BgpCompare requires a C++11 compliant compiler (`auto`, `nullptr`, `lambda`s,
 strict `enum` types)
 
-2. Invoke bgpcompare with the `-h` option for command line options.
+After building, invoke bgpcompare with the `-h` flag for command line options.
